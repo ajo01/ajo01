@@ -5,8 +5,8 @@ I'm a third year computer science student at the University of British Columbia.
 
 Currently working on:
 
-- NPM library for creating vector quality PDF images using HTML canvas methods
-- React component library for nwPlus projects
+- CanvasToPDF: NPM library for creating vector quality PDF images using Canvas API
+- nwPlus Aurora Design System: React component based library composed of styled UI elements used for nwPlus websites
 
 Past projects:
 - Machine learning app that uses motion detection to deliver real-time feedback on a user’s exercise form correctness 
