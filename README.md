@@ -4,14 +4,14 @@
 I'm a third year computer science student at the University of British Columbia. I love web development and am specialized in JavaScript technologies. I have an interest in cloud engineering and my passion is in building accessible and seamless software applications. 
 
 Currently working on:
-
-- CanvasToPDF: NPM library for creating vector quality PDF images using Canvas API
+- Web Cosedit: a powerful low level PDF editor capable of manipulating PDF data streams in the browser 
 - nwPlus Aurora Design System: React component based library composed of styled UI elements used for nwPlus websites
 
 Past projects:
+- CanvasToPDF: NPM library for creating vector quality PDFs using the Canvas API
 - Machine learning app that uses motion detection to deliver real-time feedback on a user’s exercise form correctness 
-- Fully featured budgeting application with user authentication, CSRF attack protection, search, admin page, and CSV export capability
-- Enterprise ecommerce website with Stripe integration
+- Fully featured fullstack budgeting application with user authentication, CSRF attack protection, search, admin page, and CSV export capability
+- Enterprise ecommerce website capable of financial transactions with Stripe integration
 - Interactive covid data tracker and visualization tool 
 
 Top skills:
@@ -30,6 +30,7 @@ Technologies I've used:
 <img src="https://user-images.githubusercontent.com/70789275/185347933-0308f0e0-586d-4e8e-8b4a-e022336d36e7.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185351322-1cac2de9-d91a-4731-8ab7-5b99f86b3795.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185347962-a684d06a-259c-4af8-bf18-ceab3ac83910.svg" width="50" />
+<img src="https://user-images.githubusercontent.com/70789275/189258010-a1fe8d7e-7ab7-4bdd-bde5-6aba7071d059.svg" width="60" />
 <img src="https://user-images.githubusercontent.com/70789275/185347978-e55a4557-e662-4fe7-b5ac-aee87ce58530.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185347991-2dac009b-6418-4945-be8d-b99da6164ca8.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185348006-c1eb03ff-b4b7-4c11-b36f-89dfa55c97d7.svg" width="50" />
