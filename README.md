@@ -26,7 +26,8 @@ Technologies I've used:
 <img src="https://user-images.githubusercontent.com/70789275/185347027-f42c1453-2517-4f61-a867-094fad573bd5.svg" width="50" /> <img src="https://user-images.githubusercontent.com/70789275/185347610-284e028c-0273-4551-9b30-b9530ec92b81.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185347637-b2aece02-240a-4848-a672-b0540831f956.svg" width="50" /> 
 <img src="https://user-images.githubusercontent.com/70789275/185350223-ed2bd56f-ea8d-419a-80be-11037da3980a.svg" width="50" />
-<img src="https://user-images.githubusercontent.com/70789275/185347888-727e22d2-552e-448c-9378-0c7310009a6e.svg" width="50" />
+<img src="https://user-images.githubusercontent.com/70789275/185347888-727e22d2-552e-448c-9378-0c7310009a6e.svg" width="50"/>
+<img src="https://user-images.githubusercontent.com/70789275/205003160-dec437a7-36fb-4b1d-84ec-b5e86151185d.svg" height="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185347911-32903441-82b0-425f-b67e-9510d433856e.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185347924-43acf734-0e4d-4eeb-80d4-b71975f97b90.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185347933-0308f0e0-586d-4e8e-8b4a-e022336d36e7.svg" width="50" />
