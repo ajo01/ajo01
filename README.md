@@ -18,7 +18,8 @@ Past projects:
 
 Top skills:
 - HTML/CSS/JavaScript
-- React/Redux/TypeScript
+- React/Redux
+- TypeScript/Next.js
 - Storybook/JavaScript test frameworks
 
 Technologies I've used:
