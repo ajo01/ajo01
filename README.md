@@ -4,12 +4,12 @@
 I'm a third year computer science student at the University of British Columbia. I love web development and am specialized in JavaScript technologies. I have an interest in cloud engineering and my passion is in building accessible and seamless software applications. 
 
 Currently working on:
-- Web Cosedit: a powerful low level PDF editor capable of manipulating Cos Objects such as streams in the browser 
 - nwPlus QR Scanner: internal tool for managing hackers built with Next.js and TypeScript
 - nwPlus Aurora Design System: React component based library composed of styled UI elements used for nwPlus websites
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://www.nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
 
 Past projects:
+- Web Cosedit: a powerful low level PDF editor capable of manipulating Cos Objects such as streams in the browser 
 - CanvasToPDF: NPM library for creating vector quality PDFs using the Canvas API
 - Machine learning app that uses motion detection to deliver real-time feedback on a user’s exercise form correctness 
 - Fully featured fullstack budgeting application with user authentication, CSRF attack protection, search, admin page, and CSV export capability
