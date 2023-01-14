@@ -4,7 +4,7 @@
 I'm a third year computer science student at the University of British Columbia. I love web development and am specialized in JavaScript technologies. I have an interest in cloud engineering and my passion is in building accessible and seamless software applications. 
 
 Currently working on:
-- nwPlus QR Scanner: internal tool for managing hackers built with Next.js and TypeScript
+- nwPlus QR Scanner: internal tool for managing hackers built with Next.js, Firebase and TypeScript
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://www.nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
 
 Past projects:
@@ -21,7 +21,7 @@ Top skills:
 - React/Redux
 - TypeScript/Next.js
 - Firebase/Firestore
-- NPM libraries
+- NPM
 
 Technologies I've used:
 
