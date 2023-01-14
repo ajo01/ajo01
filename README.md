@@ -1,10 +1,10 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a third year computer science student at the University of British Columbia. I love web development and am specialized in JavaScript technologies. I have an interest in cloud engineering and my passion is in building accessible and seamless software applications. 
+I'm a third year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am particularly adept with web technologies.
 
 Currently working on:
-- nwPlus QR Scanner: internal tool for managing hackers built with Next.js, Firebase and TypeScript
+- nwPlus QR Scanner: internal tool for managing hackers built with Next.js, Firebase, and TypeScript
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://www.nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
 
 Past projects:
