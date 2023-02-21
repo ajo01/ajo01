@@ -1,7 +1,9 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a third year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am particularly adept with web technologies.
+I'm a third year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am adept with web technologies.
+
+#### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
 
 Currently working on:
 - nwPlus QR Scanner: internal tool for managing hackers built with Next.js, Firebase, and TypeScript
