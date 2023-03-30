@@ -5,11 +5,9 @@ I'm a third year computer science student at the University of British Columbia 
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
 
-Currently working on:
+Past projects:
 - nwPlus QR Scanner: internal tool for managing hackers built with Next.js, Firebase, and TypeScript
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://www.nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
-
-Past projects:
 - Aurora Design System: React component based library composed of styled UI elements used for external websites
 - Web Cosedit: a powerful low level PDF editor capable of manipulating Cos Objects such as streams in the browser 
 - CanvasToPDF: NPM library for creating vector quality PDFs using the Canvas API
