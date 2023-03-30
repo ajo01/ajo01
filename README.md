@@ -43,6 +43,8 @@ Technologies I've used:
 <img src="https://user-images.githubusercontent.com/70789275/185348040-d41797d7-799a-4a45-80d4-be1a612a0483.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185348052-6410f766-a516-48c4-8a35-0e5e2d44c484.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/70789275/185348074-8bca215b-126d-4bbd-b950-c2c463aa7e54.svg" width="50" />
+<img src="https://user-images.githubusercontent.com/70789275/228798874-fdd136b5-9d83-4f18-b629-c4c55ce1a6d3.png" height="50" />
+
 
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajo01&hide=html&theme=dracula)
