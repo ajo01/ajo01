@@ -6,6 +6,7 @@ I'm a third year computer science student at the University of British Columbia 
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
 
 Past projects:
+- UBC Historical Grades: a website to look up information on past courses such as course grades, section averages, pass/fail rates, etc made with Express, Node, and Chakra UI
 - nwPlus QR Scanner: internal tool for managing hackers built with Next.js, Firebase, and TypeScript
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://www.nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
 - Aurora Design System: React component based library composed of styled UI elements used for external websites
