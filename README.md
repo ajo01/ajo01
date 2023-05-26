@@ -1,9 +1,13 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a third year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am adept with web technologies.
+I'm a 4th year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am adept with web technologies.
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
+
+Current projects:
+- CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through use of natural language processing
+
 
 Past projects:
 - UBC Historical Grades: a website to look up information on past courses such as course grades, section averages, pass/fail rates, etc made with Express, Node, and Chakra UI
@@ -21,8 +25,7 @@ Top skills:
 - HTML/CSS/JavaScript
 - React/Redux
 - TypeScript/Next.js
-- Firebase/Firestore
-- NPM
+- Node.js
 
 Technologies I've used:
 
