@@ -27,6 +27,7 @@ Top skills:
 - TypeScript/Next.js
 - ChakraUI/MaterialUI/TailwindCSS
 - Node.js
+- ChakraUI/MaterialUI/TailwindCSS
 
 Technologies I've used:
 
