@@ -25,7 +25,7 @@ Top skills:
 - HTML/CSS/JavaScript
 - React/Redux
 - TypeScript/Next.js
-- Node.js
+- Node.js/Express
 - ChakraUI/MaterialUI/TailwindCSS
 
 Technologies I've used:
