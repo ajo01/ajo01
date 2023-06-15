@@ -6,7 +6,7 @@ I'm a 4th year computer science student at the University of British Columbia wi
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
 
 Current projects:
-- CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through use of natural language processing
+- CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
 
 
 Past projects:
