@@ -1,7 +1,7 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a 4th year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am adept with web technologies.
+I'm a 4th year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am adept with web technologies. In my free time, I enjoy doing watersports such as sailing or paddleboarding.
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
 
