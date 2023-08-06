@@ -55,6 +55,6 @@ Technologies I've used:
 
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajo01&hide=html&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajo01&hide=html&theme=holi)
 
-![Amy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajo01&show_icons=true&theme=dracula)
+![Amy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajo01&show_icons=true&theme=holi)
