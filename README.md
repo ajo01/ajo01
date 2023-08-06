@@ -54,7 +54,6 @@ Technologies I've used:
 <img src="https://user-images.githubusercontent.com/70789275/228798874-fdd136b5-9d83-4f18-b629-c4c55ce1a6d3.png" height="50" />
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajo01&hide=html&theme=holi)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajo01&hide=html&theme=holi)
-
-![Amy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajo01&show_icons=true&theme=holi)
+![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajo01&theme=holi&show_icons=true)
