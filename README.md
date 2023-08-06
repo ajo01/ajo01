@@ -1,13 +1,16 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a 4th year computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, have an interest in cloud engineering, and am adept with web technologies. In my free time, I enjoy doing watersports such as sailing or paddleboarding.
+I'm a senior computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating accessible applications, am interested in cloud engineering, and am adept with web technologies. In my free time, I enjoy doing watersports such as sailing.
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
 
+![portfolio](https://github.com/ajo01/ajo01/assets/70789275/c6664b3b-bf39-42e3-a6a8-ab3019a219af)
+
+
 Current projects:
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
-
+- Portfolio 2023: built with HTML, CSS, and Globe Gl
 
 Past projects:
 - UBC Historical Grades: a website to look up information on past courses such as course grades, section averages, pass/fail rates, etc made with Express, Node, and Chakra UI
@@ -26,7 +29,8 @@ Top skills:
 - HTML/CSS/JavaScript
 - MERN stack
 - TypeScript/Next.js
-- ChakraUI/MaterialUI/TailwindCSS
+- Webpack/Babel
+- D3/Three.js
 
 Technologies I've used:
 
