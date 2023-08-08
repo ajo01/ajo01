@@ -15,7 +15,7 @@ Past projects:
 - UBC Historical Grades: a website to look up information on past courses such as course grades, section averages, pass/fail rates, etc made with Express, Node, and Chakra UI
 - Bike Rental Management: a JavaScript, PHP, and Oracle app allowing users to perform CRUD operations on bike equipment 
 - nwPlus QR Scanner: an internal tool for managing hackers built with Next.js, Firebase, and TypeScript
-- Maintaining nwPlus hackathon websites ([nwhacks.io](https://www.nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
+- Maintaining nwPlus hackathon websites ([nwhacks.io](https://nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
 - Aurora Design System: React component-based library composed of styled UI elements used for external websites
 - Web Cosedit: a powerful low-level PDF editor capable of manipulating Cos Objects such as streams in the browser 
 - CanvasToPDF: NPM library for creating vector-quality PDFs using the Canvas API
