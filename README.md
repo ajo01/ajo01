@@ -9,7 +9,7 @@ I'm a senior computer science student at the University of British Columbia with
 
 Current projects:
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
-- Portfolio 2023: built with HTML, CSS, and Globe Gl
+- Portfolio 2023: the current portfolio above. Built with HTML, CSS, and JS
 
 Past projects:
 - UBC Historical Grades: a website to look up information on past courses such as course grades, section averages, pass/fail rates, etc made with Express, Node, and Chakra UI
