@@ -54,6 +54,6 @@ Technologies I've used:
 <img src="https://user-images.githubusercontent.com/70789275/228798874-fdd136b5-9d83-4f18-b629-c4c55ce1a6d3.png" height="50" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajo01&hide=html,css&theme=holi)
+![Top Langs](https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ajo01&layout=compact&hide_border=true&langs_count=10#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ajo01&fire=2d77dc&ring=2d77dc&currStreakLabel=black&hide_border=true)](https://git.io/streak-stats)
