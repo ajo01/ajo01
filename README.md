@@ -21,8 +21,6 @@ Past projects:
 - CanvasToPDF: NPM library for creating vector-quality PDFs using the Canvas API
 - FitAtHome: Machine learning app that uses motion detection to deliver real-time feedback on a user’s exercise form correctness 
 - Fully featured fullstack budgeting application with user authentication, CSRF attack protection, search, admin page, and CSV export capability
-- Enterprise ecommerce website capable of financial transactions with Stripe integration
-- Interactive covid data tracker and visualization tool 
 
 Top skills:
 - MERN stack
