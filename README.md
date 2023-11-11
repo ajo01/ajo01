@@ -24,9 +24,10 @@ Some of my past projects:
 Top skills:
 - MERN stack
 - HTML/CSS/JavaScript
+- Python/Jupyter Notebook
+- D3/Data Visualization
 - TypeScript/Next.js
 - Webpack/Babel/NPM
-- D3/Three.js
 
 Technologies I've used:
 
