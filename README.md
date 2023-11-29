@@ -9,10 +9,11 @@ I'm a senior computer science student at the University of British Columbia with
 
 Current projects:
 - Data visualization project: coming soon!
-- Portfolio 2023: the current portfolio above. Built with HTML, CSS, and JS
+- 2024 Portfolio website: in progress
 
 Some of my past projects:
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
+- Portfolio 2023: the current portfolio above. Built with HTML, CSS, and JS.
 - Bike Rental Management: a JavaScript, PHP, and Oracle app allowing users to perform CRUD operations on bike equipment 
 - QR Scanner: an internal tool for managing hackers built with Next.js, Firebase, and TypeScript
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
