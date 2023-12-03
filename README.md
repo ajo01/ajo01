@@ -8,8 +8,8 @@ I'm a senior computer science student at the University of British Columbia with
 
 
 Current projects:
-- Data visualization project: coming soon!
-- 2024 Portfolio website: in progress
+- Loneliness: a data visualization project built with D3.js, coming soon!
+- 2024 Portfolio website: created with React and Netlify CMS
 
 Some of my past projects:
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
