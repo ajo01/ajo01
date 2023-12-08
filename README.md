@@ -4,7 +4,7 @@
 I'm a senior computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating immersive applications and am adept with web technologies. In my free time, I enjoy doing activities such as sailing and cycling.
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
-![portfolio1](https://github.com/ajo01/ajo01/assets/70789275/2fd085a2-103f-43fa-a450-98b7d78fc2b2)
+![p3](https://github.com/ajo01/ajo01/assets/70789275/810ebbbe-5cf6-44b9-8691-99ba61106842)
 
 
 Current projects:
