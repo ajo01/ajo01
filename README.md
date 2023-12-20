@@ -23,9 +23,9 @@ Some of my past projects:
 - FitAtHome: Machine learning app that uses motion detection to deliver real-time feedback on a user’s exercise form correctness 
 
 Top skills:
-- Web Development with JavaScript
-- D3/Data Visualization
-- Data Processing, Python
+- JavaScript Web Development
+- D3 Data Visualization
+- Python Data Processing
 
 Technologies I've used:
 
