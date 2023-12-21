@@ -1,9 +1,9 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a senior computer science student at the University of British Columbia with industry experience in frontend and fullstack development. I have a passion for creating immersive applications and am adept with web technologies. In my free time, I enjoy doing activities such as sailing and cycling.
+I'm a senior computer science student at the University of British Columbia with a background in frontend development and data visualization. I have a passion for creating immersive applications and am adept with web technologies. In my free time, I enjoy doing activities such as sailing and cycling.
 
-#### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app/](https://amyjo.netlify.app/)
+#### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app](https://amyjo.netlify.app/)
 
 
 Current projects:
