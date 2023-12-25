@@ -7,11 +7,11 @@ I'm a senior computer science student at the University of British Columbia with
 
 
 Current projects:
-- Loneliness: a data visualization project built with D3.js, coming soon!
 - 2024 Portfolio website: created with React and Netlify CMS
 - Plastic Pollution: A re-creation of Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 
 Some of my past projects:
+- Loneliness: a data visualization on the trends and factors of loneliness, built with D3.js
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
 - Portfolio 2023: the current portfolio above. Built with HTML, CSS, and JS.
 - Bike Rental Management: a JavaScript, PHP, and Oracle app allowing users to perform CRUD operations on bike equipment 
