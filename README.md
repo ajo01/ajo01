@@ -7,6 +7,7 @@ I'm a senior computer science student at the University of British Columbia with
 
 
 Current projects:
+- Research and communication of gender data and care work via data visualization
 - 2024 Portfolio website: created with React and Netlify CMS
 
 Some of my past projects:
