@@ -14,7 +14,7 @@ Some of my past projects:
 - Plastic Pollution: A re-creation of Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 - Loneliness - a story: a data visualization on the trends and factors of loneliness, built with D3.js
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
-- Portfolio 2023: the current portfolio above. Built with HTML, CSS, and JS.
+- Portfolio 2023: the third rendition of my portfolio
 - Bike Rental Management: a JavaScript, PHP, and Oracle app allowing users to perform CRUD operations on bike equipment 
 - Pluto: a QR scanner for managing hackers built with Next.js, Firebase, and TypeScript
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
