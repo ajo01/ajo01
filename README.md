@@ -8,9 +8,10 @@ I'm a senior computer science student at the University of British Columbia with
 
 Current projects:
 - Research and communication of gender data and care work via data visualization
-- 2024 Portfolio website: created with React and Netlify CMS
+- Climate Stripes: exploring annual surface temperature changes by country
 
 Some of my past projects:
+- 2024 Portfolio website: created with React and Decap CMS
 - Plastic Pollution: A re-creation of Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 - Loneliness - a story: a data visualization on the trends and factors of loneliness, built with D3.js
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
