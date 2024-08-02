@@ -26,7 +26,8 @@ Some of my past projects:
 Top skills:
 - Fullstack Web Development
 - Data Visualization
-- Data Cleaning
+- Data Engineering
+- Cloud services
 
 Technologies I've used:
 
