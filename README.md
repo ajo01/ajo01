@@ -17,7 +17,7 @@ Current projects:
 - ???: geospatial data visualization with Svelte
 
 Some of my past projects:
-- Various AWS computing projects to ingest data and run ML programs in the cloud using S3, Lambda, API Gateway, EMR, ECR, etc
+- Various AWS projects to ingest data and run ML programs in the cloud using S3, Lambda, API Gateway, EMR, ECR, etc
 - Academia research portfolio for clients
 - Climate Stripes: exploring annual surface temperature changes by country
 - Plastic Pollution: A re-creation of Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
