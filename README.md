@@ -1,7 +1,7 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a senior computer science student at the University of British Columbia. I have a passion for engineering creative experiences and usable solutions. In my free time, I enjoy doing activities such as sailing and reading fantasy novels.
+I'm a senior computer science student at the University of British Columbia. I have a passion for creating quality user experiences and usable solutions. In my free time, I enjoy doing activities such as sailing and reading fantasy novels.
 
 Top skills:
 - Fullstack Web Development
