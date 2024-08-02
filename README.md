@@ -1,17 +1,24 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a senior computer science student at the University of British Columbia with a background in frontend development and data visualization. I have a passion for creating immersive applications and am adept with web technologies. In my free time, I enjoy doing activities such as sailing and cycling.
+I'm a senior computer science student at the University of British Columbia. I have a passion for engineering creative experiences and usable solutions. In my free time, I enjoy doing activities such as sailing and reading fantasy novels.
+
+Top skills:
+- Fullstack Web Development
+- Data Visualization
+- Data Engineering
+- Cloud services
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app](https://amyjo.netlify.app/)
 
 
 Current projects:
-- Research and communication of gender data and care work via data visualization
 - Portfolio 2025: the fifth rendition using Vite and Vercel
+- ???: geospatial data visualization with Svelte
 
 Some of my past projects:
 - Various AWS computing projects to ingest data and run ML programs in the cloud using S3, Lambda, API Gateway, EMR, ECR, etc
+- Academia research portfolio for clients
 - Climate Stripes: exploring annual surface temperature changes by country
 - Plastic Pollution: A re-creation of Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 - Loneliness - a story: a data visualization on the trends and factors of loneliness, built with D3.js
@@ -23,11 +30,6 @@ Some of my past projects:
 - CanvasToPDF: NPM library for creating vector-quality PDFs using the Canvas API
 - FitAtHome: Machine learning app that uses motion detection to deliver real-time feedback on a user’s exercise form correctness 
 
-Top skills:
-- Fullstack Web Development
-- Data Visualization
-- Data Engineering
-- Cloud services
 
 Technologies I've used:
 
