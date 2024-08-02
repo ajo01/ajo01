@@ -8,15 +8,14 @@ I'm a senior computer science student at the University of British Columbia with
 
 Current projects:
 - Research and communication of gender data and care work via data visualization
-- Climate Stripes: exploring annual surface temperature changes by country
+- Portfolio 2025: the fifth rendition using Vite and Vercel
 
 Some of my past projects:
-- 2024 Portfolio website: created with React and Decap CMS
+- Various AWS computing projects to ingest data and run ML programs in the cloud using S3, Lambda, API Gateway, EMR, ECR, etc
+- Climate Stripes: exploring annual surface temperature changes by country
 - Plastic Pollution: A re-creation of Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 - Loneliness - a story: a data visualization on the trends and factors of loneliness, built with D3.js
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
-- Portfolio 2023: the third rendition of my portfolio
-- Bike Rental Management: a JavaScript, PHP, and Oracle app allowing users to perform CRUD operations on bike equipment 
 - Pluto: a QR scanner for managing hackers built with Next.js, Firebase, and TypeScript
 - Maintaining nwPlus hackathon websites ([nwhacks.io](https://nwhacks.io/) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io/) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io/) | [nwplus.io](https://nwplus.io/))
 - Aurora Design System: React component-based library composed of styled UI elements used for external websites
