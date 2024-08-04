@@ -13,7 +13,7 @@ Top skills:
 
 
 Current projects:
-- Portfolio 2025: the fifth rendition using Vite and Vercel
+- Portfolio 2025: the fifth rendition using Aceternity UI, Figma, Vite, and Vercel
 - ???: geospatial data visualization with Svelte
 
 Some of my past projects:
