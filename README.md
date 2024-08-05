@@ -9,7 +9,7 @@ Top skills:
 - Data Engineering
 - Cloud services
 
-#### Want to know more about me? Check out my portfolio website! [amyjo.netlify.app](https://amyjo.netlify.app/)
+#### Want to know more about me? Check out my portfolio website! [amyjo.vercel.app](https://amyjo.vercel.app/) 
 
 
 Current projects:
