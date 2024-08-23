@@ -20,7 +20,7 @@ Some of my past projects:
 - Various AWS projects to ingest data and run ML programs in the cloud using S3, Lambda, API Gateway, EMR, ECR, etc
 - Academia research portfolio for clients
 - Climate Stripes: exploring annual surface temperature changes by country
-- Plastic Pollution: A re-creation of Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
+- Plastic Pollution: Reverse engineering Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 - Loneliness - a story: a data visualization on the trends and factors of loneliness, built with D3.js
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
 - Pluto: a QR scanner for managing hackers built with Next.js, Firebase, and TypeScript
