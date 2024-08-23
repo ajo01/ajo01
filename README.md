@@ -13,8 +13,8 @@ Top skills:
 
 
 Current projects:
-- Portfolio 2025: the fifth rendition using Aceternity UI, Figma, Vite, and Vercel
-- ???: geospatial data visualization with Svelte
+- Portfolio 2025: the sixth rendition using TypeScript, Canvas, Figma, Vite, and Vercel
+- ???: collaborative data visualization project with Svelte and D3
 
 Some of my past projects:
 - Various AWS projects to ingest data and run ML programs in the cloud using S3, Lambda, API Gateway, EMR, ECR, etc
