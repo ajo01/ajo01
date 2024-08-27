@@ -5,9 +5,9 @@ I'm a senior computer science student at the University of British Columbia. I h
 
 Top skills:
 - Fullstack Web Development
+- Cloud services
 - Data Visualization
 - Data Engineering
-- Cloud services
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.vercel.app](https://amyjo.vercel.app/) 
 
@@ -15,10 +15,10 @@ Top skills:
 Current projects:
 - Portfolio 2025: the sixth rendition using TypeScript, Canvas, Figma, Vite, and Vercel
 - ???: collaborative data visualization project with Svelte and D3
+- AWS Cloud Resume Challenge using S3, Cloudfront, Lambda, Route53, DynamoDB, IAM, and GitHub Actions
 
 Some of my past projects:
-- Various AWS projects to ingest data and run ML programs in the cloud using S3, Lambda, API Gateway, EMR, ECR, etc
-- Academia research portfolio for clients
+- Academic research portfolio for policy research clients
 - Climate Stripes: exploring annual surface temperature changes by country
 - Plastic Pollution: Reverse engineering Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 - Loneliness - a story: a data visualization on the trends and factors of loneliness, built with D3.js
