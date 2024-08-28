@@ -13,11 +13,11 @@ Top skills:
 
 
 Current projects:
-- Portfolio 2025: the sixth rendition using TypeScript, Canvas, Figma, Vite, and Vercel
+- AWS Cloud Resume Challenge using S3, Cloudfront, Lambda, Route53, DynamoDB, IAM, GitHub Actions, and Terraform
 - ???: collaborative data visualization project with Svelte and D3
-- AWS Cloud Resume Challenge using S3, Cloudfront, Lambda, Route53, DynamoDB, IAM, and GitHub Actions
 
 Some of my past projects:
+- Portfolio 2025: the sixth rendition using TypeScript, Canvas, Figma, Vite, and Vercel
 - Academic research portfolio for policy research clients
 - Climate Stripes: exploring annual surface temperature changes by country
 - Plastic Pollution: Reverse engineering Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
