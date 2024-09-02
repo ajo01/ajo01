@@ -18,8 +18,8 @@ Current projects:
 
 Some of my past projects:
 - Portfolio 2025: the sixth rendition using TypeScript, Canvas, Figma, Vite, and Vercel
-- Academic research portfolio for policy research clients
-- Climate Stripes: exploring annual surface temperature changes by country
+- Academic research portfolio for policy research clients, developed with PostgreSQL, Strapi CMS, and Vercel
+- Climate Stripes: exploring annual surface temperature changes by country with Python
 - Plastic Pollution: Reverse engineering Jamie Kettle's Who is bottling plastic waste pollution design with D3.js
 - Loneliness - a story: a data visualization on the trends and factors of loneliness, told with scrollytelling
 - CourseGPT: an interface for students to ask questions about course content and be provided with accurate and in-depth answers through custom natural language processing models with OpenAI's GPT API
