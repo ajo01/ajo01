@@ -9,7 +9,7 @@ Top skills:
 - Data Visualization
 - Data Engineering
 
-#### Want to know more about me? Check out my portfolio website! [amyjo.vercel.app](https://amyjo.vercel.app/) 
+#### Want to know more about me? Check out my portfolio website! [amyjo.cloud](https://amyjo.cloud) 
 
 
 Current projects:
