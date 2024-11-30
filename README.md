@@ -6,17 +6,19 @@ I'm a senior computer science student at the University of British Columbia. I h
 Top skills:
 - Fullstack Web Development
 - Cloud Engineering
+- Machine Learning
 - Data Visualization
-- Data Engineering
+- Human-Computer Interaction
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.cloud](https://amyjo.cloud) 
 
 
 Current projects:
-- AWS Cloud Resume Challenge using S3, Cloudfront, Lambda, Route53, ACM, DynamoDB, IAM, GitHub Actions, and Terraform
 - ???: collaborative data visualization project with Svelte and D3
+- HCI study on improving Yelp's design
 
 Some of my past projects:
+- AWS Cloud Resume Challenge using S3, Cloudfront, Lambda, Route53, ACM, DynamoDB, IAM, GitHub Actions, and Terraform
 - Portfolio 2025: the sixth rendition using TypeScript, Canvas, Figma, Vite, and Vercel
 - Academic research portfolio for policy research clients, developed with PostgreSQL, Strapi CMS, and Vercel
 - Climate Stripes: exploring annual surface temperature changes by country with Python
