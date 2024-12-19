@@ -8,7 +8,7 @@ Top skills:
 - Cloud Engineering
 - Machine Learning
 - Data Visualization
-- Human-Computer Interaction
+- User-centered Design
 
 #### Want to know more about me? Check out my portfolio website! [amyjo.cloud](https://amyjo.cloud) 
 
