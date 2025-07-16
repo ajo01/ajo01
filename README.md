@@ -1,7 +1,7 @@
 ### Hi, I'm Amy! 👋
 
 
-I'm a senior computer science student at the University of British Columbia. I have a passion for creating quality user experiences and usable solutions. In my free time, I enjoy doing activities such as sailing and reading sci-fi novels.
+I'm a graduate of the University of British Columbia and am currently working at Wealthsimple. I have a passion for creating dazzling user experiences and simple solutions. In my free time, I enjoy doing activities such as sailing and reading sci-fi novels.
 
 Top skills:
 - Fullstack Web Development
